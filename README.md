@@ -34,5 +34,4 @@ Cifar-10 clssification練習
 -  Augmented Reality（擴增實境）
 -  Stereo Disparity Map（立體視差）  
 ### Homework 2-2
-ASIRRA![image](https://user-images.githubusercontent.com/74700686/231710543-4b3d3553-d209-48f9-869b-d389c351d15f.png)
- clssification練習  
+ASIRRA clssification練習  
