@@ -16,8 +16,8 @@ Homework 1-1
   - Translation（平移）
   - Rotation（旋轉）
   - Scaling（縮放）
-  - Shearing（剪切）
-- 
+  - Shearing（剪切）  
+  
 Homework 1-2  
 Cifar-10 clssification練習  
 
